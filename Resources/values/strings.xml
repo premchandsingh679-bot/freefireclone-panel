@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Free Fire Client</string>
+    <string name="es_label">ES</string>
+    <string name="es_description">Enemy Sensor</string>
+    <string name="aim_label">AIM</string>
+    <string name="aim_description">Auto Aim System</string>
+    <string name="fl_label">FL</string>
+    <string name="fl_description">Flash Light / Night Vision</string>
+    <string name="status_ready">● READY</string>
+    <string name="status_inactive">Status: INACTIVE</string>
+    <string name="status_active">Status: ACTIVE ✓</string>
+    <string name="start_button">START</string>
+    <string name="stop_button">STOP</string>
+    <string name="client_title">FREE FIRE CLIENT</string>
+    <string name="client_subtitle">ANDROID EDITION v1.0</string>
+</resources>
